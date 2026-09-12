@@ -1,0 +1,27 @@
+# MATLAB autosave / temporary files
+*.asv
+*.m~
+*.autosave
+*.slxc
+*.mex*
+slprj/
+codegen/
+
+# MATLAB generated data / outputs
+*.mat
+*.fig
+*.gif
+*.avi
+*.mp4
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Office temporary files
+~$*
+
+# Personal academic source archive — intentionally never public
+private-original-reports/
