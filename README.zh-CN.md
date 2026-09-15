@@ -1,5 +1,10 @@
 # PUMA 560 机器人运动学与轨迹规划
 
+[![类型](https://img.shields.io/badge/%E7%B1%BB%E5%9E%8B-%E8%AF%BE%E7%A8%8B%E4%BD%9C%E4%B8%9A-2563eb?style=for-the-badge)](#)
+[![技术](https://img.shields.io/badge/%E6%8A%80%E6%9C%AF-MATLAB-7c3aed?style=for-the-badge)](#)
+[![许可证](https://img.shields.io/badge/%E8%AE%B8%E5%8F%AF%E8%AF%81-MIT-16a34a?style=for-the-badge)](LICENSE)
+
+
 这是一个基于 MATLAB 的机器人学作品集项目，内容包括 **三维旋转表示、欧拉角与旋转矩阵转换、笛卡尔路径生成、轨迹插值、逆运动学，以及 PUMA 560 机器人仿真**，机器人部分使用 Peter Corke 的 Robotics Toolbox for MATLAB。
 
 > 本仓库由 2023–2024 年完成的大学机器人学实验与课程设计重构而来。公开版不是简单上传原作业，而是对代码结构、命名、数学约定和文档进行了重新整理与修正，并将包含个人学籍信息的原始报告与公开 Git 仓库隔离。
