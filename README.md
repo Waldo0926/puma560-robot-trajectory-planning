@@ -1,5 +1,10 @@
 # PUMA 560 Robot Kinematics & Trajectory Planning
 
+[![Type](https://img.shields.io/badge/Type-Coursework-2563eb?style=for-the-badge)](#)
+[![Tech](https://img.shields.io/badge/Tech-MATLAB-7c3aed?style=for-the-badge)](#)
+[![License](https://img.shields.io/badge/License-MIT-16a34a?style=for-the-badge)](LICENSE)
+
+
 A MATLAB robotics portfolio project covering **3-D rotation representations, Euler-angle conversion, Cartesian path generation, trajectory interpolation, inverse kinematics, and PUMA 560 simulation** with Peter Corke's Robotics Toolbox.
 
 > This repository is a public-facing refactor of university robotics coursework completed in 2023–2024. The original algorithms and experiments were reorganized, corrected, documented, and separated from private academic records for portfolio use.
