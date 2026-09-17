@@ -9,7 +9,7 @@ A MATLAB robotics portfolio project covering **3-D rotation representations, Eul
 
 > This repository is a public-facing refactor of university robotics coursework completed in 2023–2024. The original algorithms and experiments were reorganized, corrected, documented, and separated from private academic records for portfolio use.
 
-[简体中文 README](README.zh-CN.md)
+**English** · [中文](README.zh-CN.md)
 
 ## Highlights
 
